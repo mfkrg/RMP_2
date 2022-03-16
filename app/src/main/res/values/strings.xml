@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">praktika2</string>
+    <string name="Btn">Рассчитать</string>
+    <string name="bit">бит</string>
+    <string name="Byte">Байт</string>
+    <string name="Kb">Килобит</string>
+    <string name="KB">КилоБайт</string>
+    <string name="Mb">Мегабит</string>
+    <string name="MB">МегаБайт</string>
+    <string name="Gb">Гигабит</string>
+    <string name="GB">ГигаБайт</string>
+    <string name="Tb">Терабит</string>
+    <string name="TB">ТераБайт</string>
+    <string-array name="calculationArray">
+        <item>bit</item>
+        <item>Byte</item>
+        <item>Kb</item>
+        <item>KB</item>
+        <item>Mb</item>
+        <item>MB</item>
+        <item>Gb</item>
+        <item>GB</item>
+        <item>TB</item>
+    </string-array>
+</resources>
